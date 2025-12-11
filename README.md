@@ -1,5 +1,11 @@
 # Maatwerk-Ontwikkeling
 
+## 🚀 Start Hier
+
+**Nieuw?** Begin met de [Getting Started Guide](GETTING_STARTED.md) voor een stap-voor-stap introductie.
+
+**Quick reference?** Check de [Quick Reference](QUICK_REFERENCE.md) voor veelgebruikte commando's.
+
 ## Doel
 Deze repository is bedoeld voor het onderzoeken, documenteren en bijhouden van maatwerk ontwikkelingen. Als enige programmeur is het essentieel om structuur en overzicht te behouden, zodat het werk betrouwbaar en overdraagbaar is.
 
@@ -62,6 +68,8 @@ Deze repository is bedoeld voor het onderzoeken, documenteren en bijhouden van m
    - Los technische schuld op
 
 ## Quick Reference
+
+**📋 Zie [QUICK_REFERENCE.md](QUICK_REFERENCE.md) voor alle veelgebruikte commando's en workflows!**
 
 ### Checklist Nieuwe Functionaliteit
 - [ ] Requirements gedocumenteerd
