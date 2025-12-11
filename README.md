@@ -8,25 +8,33 @@ Dit repository biedt een gestructureerde aanpak voor het ontwikkelen en beheren 
 
 ## 🚀 Quick Start
 
+**Nieuw hier? Start met [QUICK_REFERENCE.md](QUICK_REFERENCE.md) of [docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)**
+
 ### Voor een Nieuw Project
 
-1. **Lees de setup guide**
+1. **Lees de getting started guide**
    ```bash
-   cat docs/PROJECT_SETUP_GUIDE.md
+   cat docs/GETTING_STARTED.md
    ```
 
 2. **Maak een nieuw project**
    ```bash
    mkdir -p projects/mijn-nieuw-project
-   cp templates/README-template.md projects/mijn-nieuw-project/README.md
-   cp templates/requirements-template.md projects/mijn-nieuw-project/docs/requirements.md
+   cd projects/mijn-nieuw-project
+   cp ../../templates/README-template.md README.md
+   cp ../../templates/requirements-template.md docs/requirements.md
    ```
 
 3. **Volg de workflow**
    - Zie `docs/WORKFLOW.md` voor dagelijkse en wekelijkse routines
    - Zie `docs/CODING_STANDARDS.md` voor code conventies
+   - Zie `QUICK_REFERENCE.md` voor snelle referentie
 
 ## 📖 Documentatie
+
+### Start Hier 🎯
+- **[Quick Reference](QUICK_REFERENCE.md)** - Snelle referentie voor common tasks
+- **[Getting Started](docs/GETTING_STARTED.md)** - Stap-voor-stap gids voor je eerste project
 
 ### Basis Gidsen
 - **[Project Setup Guide](docs/PROJECT_SETUP_GUIDE.md)** - Stap-voor-stap gids voor het opstarten van nieuwe projecten
