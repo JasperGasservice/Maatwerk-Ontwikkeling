@@ -1,0 +1,46 @@
+# Example .gitignore
+
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+vendor/
+packages/
+
+# Build artifacts
+dist/
+build/
+out/
+target/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.class
+*.o
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+*.cover
+
+# System files
+Thumbs.db
+desktop.ini
